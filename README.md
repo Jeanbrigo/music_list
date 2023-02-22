@@ -28,7 +28,7 @@
 ![model image](https://i.imgur.com/YAlwhkv.jpg)
 
 #### Routes
-##### Base route - https://cetamdapi.onrender.com/gigs 
+##### Base route - https://music-list-backend.onrender.com/songs 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | router.get('/') | GET | returns all songs |
