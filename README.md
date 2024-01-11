@@ -39,8 +39,8 @@
 
 
  #### User Stories
- - As a user, I should be able to create, read, update, and delete songs to my music list
- - As a user, I should be able to display information about each individual song
+ - As a user, I should be able to create, read, update, and delete songs to my music list.
+ - As a user, I should be able to display information about each individual song.
  - Bonus: As a user, I should be able to autofill song searches.
  - Bonus: As a user, I should be able to create a DJ profile to manage the song list provided.
  
